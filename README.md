@@ -17,7 +17,7 @@ Project is created with:
 * **Menu**
 
 
-![](additional/menu.jpg)
+![](additional/menu_d.jpg)
 
 * **Survey**
 
