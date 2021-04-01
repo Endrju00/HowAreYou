@@ -12,6 +12,7 @@ Project is created with:
 * Python
 * Kivy
 * Matplotlib
+* OpenWeather
 
 ## Screenshots
 * **Menu**
