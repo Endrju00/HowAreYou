@@ -34,7 +34,7 @@ Project is created with:
 
 ![](additional/settings_d.jpg)
 
-* **Dark theme and color changing**
+* **Theme and color changing**
 
 
 ![](additional/light.jpg)
