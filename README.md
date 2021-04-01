@@ -6,7 +6,7 @@
 
 ## General info
 This project is an application that shows the weather and allows you to fill out a short survey from which the data is used to build charts. 
-This allows the users to analyze their well-being in relation to various factors such as sleep, temperature etc.
+This allows the users to analyze their well-being in relation to various factors such as sleep, physical activity, temperature, sensed temerature, humidity and pressure.
 	
 ## Technologies
 Project is created with:
@@ -14,8 +14,7 @@ Project is created with:
 * Kivy
 * KivyMD
 * OpenWeather
-* Matplotlib
-	* ing-theme-matplotlib 0.1.7
+* Matplotlib (with ing-theme-matplotlib)
 
 
 ## Screenshots
