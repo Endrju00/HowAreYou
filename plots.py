@@ -1,11 +1,11 @@
 import matplotlib.pyplot as plt
-import numpy as np
+from numpy import linspace
 from ing_theme_matplotlib import mpl_style
 
 
 def plotData(days, data_1, data_2, data_1_label="data1", data_2_label="data2", x_label='Days', y_label='Scaled values', color1="Blue", dark=False, filename='Plt.png'):
     plt.close('all')
-    x = np.linspace(0, days, days)
+    x = linspace(0, days, days)
     mpl_style(dark=dark)
 
     if dark:

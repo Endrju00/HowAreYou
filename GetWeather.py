@@ -1,4 +1,4 @@
-import requests
+from requests import get
 
 
 def convert(seconds, time_zone):
@@ -17,7 +17,7 @@ class WeatherInfo:
         self.name = city_name
         self.API_key = API_key
         self.url = 'https://api.openweathermap.org/data/2.5/weather?q={}&appid={}'.format(city_name, API_key)
-        self.res = requests.get(self.url)
+        self.res = get(self.url)
         self.data = self.res.json()
         self.country = self.data['sys']['country']
 
