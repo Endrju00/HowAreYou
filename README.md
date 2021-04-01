@@ -11,6 +11,7 @@ This project is an app that shows actual weather and ask how are you. Data is co
 Project is created with:
 * Python
 * Kivy
+* KivyMD
 * OpenWeather
 * Matplotlib
 
