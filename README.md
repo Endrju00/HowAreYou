@@ -22,20 +22,20 @@ Project is created with:
 * **Survey**
 
 
-![](additional/survey.jpg)
+![](additional/survey_d.jpg)
 
 * **Statistics**
 
 
-![](additional/statistics.jpg)
+![](additional/statistics_d.jpg)
 
 * **Settings**
 
 
-![](additional/settings.jpg)
+![](additional/settings_d.jpg)
 
 * **Dark theme and color changing**
 
 
-![](additional/dark.jpg)
+![](additional/light.jpg)
 
