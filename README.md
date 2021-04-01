@@ -15,6 +15,7 @@ Project is created with:
 * KivyMD
 * OpenWeather
 * Matplotlib (with ing-theme-matplotlib)
+* Numpy (linspace function)
 
 
 ## Screenshots
