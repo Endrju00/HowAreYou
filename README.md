@@ -16,17 +16,27 @@ Project is created with:
 
 ## Screenshots
 * **Menu**
+
+
 ![](additional/menu.jpg)
 
 * **Survey**
+
+
 ![](additional/survey.jpg)
 
 * **Statistics**
+
+
 ![](additional/statistics.jpg)
 
 * **Settings**
+
+
 ![](additional/settings.jpg)
 
 * **Dark theme and color changing**
+
+
 ![](additional/dark.jpg)
 
