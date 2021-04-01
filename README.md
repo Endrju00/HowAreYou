@@ -14,6 +14,7 @@ Project is created with:
 * KivyMD
 * OpenWeather
 * Matplotlib
+	* ing-theme-matplotlib 0.1.7
 
 
 ## Screenshots
