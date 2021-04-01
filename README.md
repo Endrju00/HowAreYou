@@ -5,14 +5,16 @@
 * [Screenshots](#screenshots)
 
 ## General info
-This project is an app that shows actual weather and ask how are you. Data is collected and then presented on the graphs.
+This project is an application that shows the weather and allows you to fill out a short survey from which the data is used to build charts. 
+This allows the users to analyze their well-being in relation to various factors such as sleep, physical activity, temperature, sensed temerature, humidity and pressure.
 	
 ## Technologies
 Project is created with:
 * Python
 * Kivy
+* KivyMD
 * OpenWeather
-* Matplotlib
+* Matplotlib (with ing-theme-matplotlib)
 
 
 ## Screenshots
