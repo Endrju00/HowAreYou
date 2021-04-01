@@ -1,1 +1,1 @@
-{"user": {"name": "", "city": "", "feeling": 0, "theme": "Light", "color": "Orange", "first": true}, "plots": {"feeling_data": [], "sleep_data": [], "activity_data": [], "temperature_data": [], "sensed_temperature_data": [], "humidity_data": [], "pressure_data": []}}
+{"user": {"name": "", "city": "", "feeling": "", "theme": "Light", "color": "Orange", "first": true}, "plots": {"feeling_data": [], "sleep_data": [], "activity_data": [], "temperature_data": [], "sensed_temperature_data": [], "humidity_data": [], "pressure_data": []}}

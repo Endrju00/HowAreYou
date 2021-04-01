@@ -193,7 +193,7 @@ class HowAreYouApp(MDApp):
         text.text = "Hi {}, how are you today?".format(self.store.get('user')['name'])
 
     def save_survey(self):
-        survey_input = {'feeling': self.sm.get_screen('menu').ids.feeling_rate.text,
+        survey_input = {'feeling': self.sm.get_screen('menu').ids.feeling_rate1.text,
                         'sleep': self.sm.get_screen('menu').ids.sleep_rate.text,
                         'activity': self.sm.get_screen('menu').ids.activity_rate.text,
                         }

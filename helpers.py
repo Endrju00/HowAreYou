@@ -140,10 +140,10 @@ screen_helper = """
                 pos_hint: {'center_x': 0.5, 'center_y': 0.85}
             
             MDTextField:
-                id: feeling_rate
+                id: feeling_rate1
                 hint_text: "On a scale of 1 to 10 how are you feeling?"
                 helper_text: "It's important to feel good about yourself."
-                text: str(app.store.get('user')['feeling'])
+                text: ""
                 helper_text_mode: "on_focus"
                 icon_right: "star-face"
                 icon_right_color: app.theme_cls.primary_color
