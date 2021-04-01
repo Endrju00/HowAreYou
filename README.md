@@ -6,7 +6,7 @@
 
 ## General info
 This project is an application that shows the weather and allows you to fill out a short survey from which the data is used to build charts. 
-This allows the user to analyze well-being in relation to various factors such as sleep, temperature etc.
+This allows the users to analyze their well-being in relation to various factors such as sleep, temperature etc.
 	
 ## Technologies
 Project is created with:
