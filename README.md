@@ -17,6 +17,7 @@ Project is created with:
 * Matplotlib (with ing-theme-matplotlib)
 * Numpy (linspace function)
 
+![](additional/HowAreYou.gif)
 
 ## Screenshots
 * **Menu**
