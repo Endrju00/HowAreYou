@@ -20,28 +20,18 @@ Project is created with:
 ![](additional/HowAreYou.gif)
 
 ## Screenshots
-* **Menu**
-
-
+* **Menu** - information about weather
 ![](additional/menu_d.jpg)
 
-* **Survey**
-
-
+* **Survey** - three short questions
 ![](additional/survey_d.jpg)
 
-* **Statistics**
-
-
+* **Statistics** - generated plots from previous days
 ![](additional/statistics_d.jpg)
 
-* **Settings**
-
-
+* **Settings** - setting name, location
 ![](additional/settings_d.jpg)
 
 * **Theme and color changing**
-
-
 ![](additional/light.jpg)
 
