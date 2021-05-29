@@ -26,7 +26,7 @@ Project is created with:
 * **Survey** - three short questions
 ![](additional/survey_d.jpg)
 
-* **Statistics** - generated plots from previous days
+* **Statistics** - generated plots from previous days (scroll to discover more)
 ![](additional/statistics_d.jpg)
 
 * **Settings** - setting name, location
